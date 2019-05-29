@@ -1,0 +1,15 @@
+C:\Dev\C#\CineHorarios\CineHorarios\bin\Debug\netstandard2.0\InfoCines.deps.json
+C:\Dev\C#\CineHorarios\CineHorarios\bin\Debug\netstandard2.0\InfoCines.dll
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\InfoCines.csprojAssemblyReference.cache
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\InfoCines.csproj.CoreCompileInputs.cache
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\InfoCines.AssemblyInfoInputs.cache
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\InfoCines.AssemblyInfo.cs
+C:\Dev\C#\InfoCines\InfoCines\bin\Debug\netstandard2.0\InfoCines.deps.json
+C:\Dev\C#\InfoCines\InfoCines\bin\Debug\netstandard2.0\InfoCines.dll
+C:\Dev\C#\InfoCines\InfoCines\bin\Debug\netstandard2.0\InfoCines.pdb
+C:\Dev\C#\InfoCines\InfoCines\obj\Debug\netstandard2.0\InfoCines.csprojAssemblyReference.cache
+C:\Dev\C#\InfoCines\InfoCines\obj\Debug\netstandard2.0\InfoCines.csproj.CoreCompileInputs.cache
+C:\Dev\C#\InfoCines\InfoCines\obj\Debug\netstandard2.0\InfoCines.AssemblyInfoInputs.cache
+C:\Dev\C#\InfoCines\InfoCines\obj\Debug\netstandard2.0\InfoCines.AssemblyInfo.cs
+C:\Dev\C#\InfoCines\InfoCines\obj\Debug\netstandard2.0\InfoCines.dll
+C:\Dev\C#\InfoCines\InfoCines\obj\Debug\netstandard2.0\InfoCines.pdb

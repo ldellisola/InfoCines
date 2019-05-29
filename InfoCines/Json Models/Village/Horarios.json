@@ -1,0 +1,659 @@
+https://www.villagecines.com/api/movies/788/showtimes?screen_type=monster&date=2019-05-27
+
+{
+    "errors": false,
+    "data": [
+        {
+            "id": 1,
+            "name": "Village Cines Recoleta",
+            "external_id": "1029",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6265565,
+                                    "starts_at": "2019-05-27 15:50:00",
+                                    "external_id": "1029-29896",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6265566,
+                                    "starts_at": "2019-05-27 19:30:00",
+                                    "external_id": "1029-29897",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6265567,
+                                    "starts_at": "2019-05-27 23:10:00",
+                                    "external_id": "1029-29898",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "SUBT",
+                            "format": "2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Village Cines Caballito",
+            "external_id": "1030",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6292896,
+                                    "starts_at": "2019-05-27 15:50:00",
+                                    "external_id": "1030-24361",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6292897,
+                                    "starts_at": "2019-05-27 19:30:00",
+                                    "external_id": "1030-24362",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6292898,
+                                    "starts_at": "2019-05-27 23:10:00",
+                                    "external_id": "1030-24363",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "SUBT",
+                            "format": "2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Village Cines Pilar",
+            "external_id": "1023",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6851077,
+                                    "starts_at": "2019-05-27 15:50:00",
+                                    "external_id": "1023-26697",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6851078,
+                                    "starts_at": "2019-05-27 19:30:00",
+                                    "external_id": "1023-26698",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6851079,
+                                    "starts_at": "2019-05-27 23:10:00",
+                                    "external_id": "1023-26699",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6851075,
+                                    "starts_at": "2019-05-27 22:20:00",
+                                    "external_id": "1023-26695",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Village Cines Merlo",
+            "external_id": "1035",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6293217,
+                                    "starts_at": "2019-05-27 14:10:00",
+                                    "external_id": "1035-17449",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6293207,
+                                    "starts_at": "2019-05-27 23:00:00",
+                                    "external_id": "1035-17439",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6293222,
+                                    "starts_at": "2019-05-27 18:00:00",
+                                    "external_id": "1035-17454",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "SUBT",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6293263,
+                                    "starts_at": "2019-05-27 21:00:00",
+                                    "external_id": "1035-17495",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Village Cines Avellaneda",
+            "external_id": "1025",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5828601,
+                                    "starts_at": "2019-05-27 13:30:00",
+                                    "external_id": "1025-41999",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828715,
+                                    "starts_at": "2019-05-27 15:30:00",
+                                    "external_id": "1025-42127",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828602,
+                                    "starts_at": "2019-05-27 17:15:00",
+                                    "external_id": "1025-42000",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828716,
+                                    "starts_at": "2019-05-27 19:15:00",
+                                    "external_id": "1025-42128",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828603,
+                                    "starts_at": "2019-05-27 21:00:00",
+                                    "external_id": "1025-42001",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828717,
+                                    "starts_at": "2019-05-27 23:00:00",
+                                    "external_id": "1025-42129",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5828718,
+                                    "starts_at": "2019-05-27 14:30:00",
+                                    "external_id": "1025-42130",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828719,
+                                    "starts_at": "2019-05-27 18:15:00",
+                                    "external_id": "1025-42131",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828720,
+                                    "starts_at": "2019-05-27 22:00:00",
+                                    "external_id": "1025-42132",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5828599,
+                                    "starts_at": "2019-05-27 17:45:00",
+                                    "external_id": "1025-41997",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5828600,
+                                    "starts_at": "2019-05-27 21:30:00",
+                                    "external_id": "1025-41998",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "SUBT",
+                            "format": "2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Village Cines Rosario",
+            "external_id": "1024",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6493147,
+                                    "starts_at": "2019-05-27 17:00:00",
+                                    "external_id": "1024-34150",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6493175,
+                                    "starts_at": "2019-05-27 19:00:00",
+                                    "external_id": "1024-34182",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6493148,
+                                    "starts_at": "2019-05-27 20:30:00",
+                                    "external_id": "1024-34151",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6493176,
+                                    "starts_at": "2019-05-27 22:30:00",
+                                    "external_id": "1024-34183",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6493104,
+                                    "starts_at": "2019-05-27 17:30:00",
+                                    "external_id": "1024-34089",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6493105,
+                                    "starts_at": "2019-05-27 21:00:00",
+                                    "external_id": "1024-34090",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Village Cines Mendoza",
+            "external_id": "1026",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5812007,
+                                    "starts_at": "2019-05-27 14:15:00",
+                                    "external_id": "1026-31645",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5812008,
+                                    "starts_at": "2019-05-27 17:50:00",
+                                    "external_id": "1026-31646",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5812009,
+                                    "starts_at": "2019-05-27 21:30:00",
+                                    "external_id": "1026-31647",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5811910,
+                                    "starts_at": "2019-05-27 14:40:00",
+                                    "external_id": "1026-31498",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5811911,
+                                    "starts_at": "2019-05-27 18:20:00",
+                                    "external_id": "1026-31499",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5811912,
+                                    "starts_at": "2019-05-27 22:00:00",
+                                    "external_id": "1026-31500",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5811858,
+                                    "starts_at": "2019-05-27 22:30:00",
+                                    "external_id": "1026-31443",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "SUBT",
+                            "format": "2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Village Cines Maipu00fa",
+            "external_id": "1027",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 5783899,
+                                    "starts_at": "2019-05-27 15:45:00",
+                                    "external_id": "1027-8800",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5783900,
+                                    "starts_at": "2019-05-27 19:15:00",
+                                    "external_id": "1027-8801",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 5783901,
+                                    "starts_at": "2019-05-27 22:50:00",
+                                    "external_id": "1027-8802",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Village Cines Neuquu00e9n",
+            "external_id": "1028",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6144825,
+                                    "starts_at": "2019-05-27 15:40:00",
+                                    "external_id": "1028-16875",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6144826,
+                                    "starts_at": "2019-05-27 19:20:00",
+                                    "external_id": "1028-16876",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6144827,
+                                    "starts_at": "2019-05-27 23:00:00",
+                                    "external_id": "1028-16877",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "SUBT",
+                            "format": "3D"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Village Cines Luju00e1n",
+            "external_id": "1118",
+            "types": [
+                {
+                    "type": "standard",
+                    "options": [
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6878274,
+                                    "starts_at": "2019-05-27 14:10:00",
+                                    "external_id": "1118-1219",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                },
+                                {
+                                    "showtime_id": 6878275,
+                                    "starts_at": "2019-05-27 21:50:00",
+                                    "external_id": "1118-1220",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "2D"
+                        },
+                        {
+                            "showtimes": [
+                                {
+                                    "showtime_id": 6878273,
+                                    "starts_at": "2019-05-27 18:00:00",
+                                    "external_id": "1118-1218",
+                                    "is_pre_sell": false,
+                                    "is_new": false,
+                                    "slug": null
+                                }
+                            ],
+                            "version": "CAST",
+                            "format": "3D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "aggregations": {
+            "complex": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1,
+                "7": 1,
+                "8": 1,
+                "9": 1,
+                "10": 1
+            },
+            "screen_type": {
+                "standard": 1
+            },
+            "attribute": {
+                "2D": 1,
+                "3D": 1,
+                "CAST": 1,
+                "SUBT": 1
+            },
+            "date": {
+                "2019-05-27": 1,
+                "2019-05-28": 1,
+                "2019-05-29": 1
+            }
+        }
+    }
+}

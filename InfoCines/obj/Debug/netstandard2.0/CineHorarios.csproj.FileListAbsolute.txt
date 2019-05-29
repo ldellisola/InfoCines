@@ -1,0 +1,9 @@
+C:\Dev\C#\CineHorarios\CineHorarios\bin\Debug\netstandard2.0\CineHorarios.deps.json
+C:\Dev\C#\CineHorarios\CineHorarios\bin\Debug\netstandard2.0\CineHorarios.dll
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\CineHorarios.csprojAssemblyReference.cache
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\CineHorarios.csproj.CoreCompileInputs.cache
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\CineHorarios.AssemblyInfoInputs.cache
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\CineHorarios.AssemblyInfo.cs
+C:\Dev\C#\CineHorarios\CineHorarios\bin\Debug\netstandard2.0\CineHorarios.pdb
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\CineHorarios.dll
+C:\Dev\C#\CineHorarios\CineHorarios\obj\Debug\netstandard2.0\CineHorarios.pdb
