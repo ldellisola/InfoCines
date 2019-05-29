@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using InfoCines.Village.Models.Showtime;
 using InfoCines.Village.Models;
 using RestMethods;
+using InfoCines.CommonModels;
 
 namespace InfoCines.Village
 {
-    public class Village
+    public class Village : CommonModels.CinemaManager
     {
 
         private List<CinemaData> cinemas;
@@ -16,8 +17,7 @@ namespace InfoCines.Village
         public Village(bool DownloadShowtimes = true)
         {
 
-            cinemas = new RestMethods.RestMethods(@"https://www.villagecines.com/api/complexes").Get<CinemasResponse>().Data;
-            movies = new RestMethods.RestMethods(@"https://www.villagecines.com/api/movies").Get<MoviesResponse>().Data;
+            Update();
 
             if (DownloadShowtimes)
             {
@@ -57,6 +57,26 @@ namespace InfoCines.Village
 
             return retValue;
         }
-        
+
+        public List<Cinema> GetCinemas()
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Movie> GetCurrentFilms()
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<UpcomingMovie> GetUpcomingFilms()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update()
+        {
+            cinemas = new RestMethods.RestMethods(@"https://www.villagecines.com/api/complexes").Get<CinemasResponse>().Data;
+            movies = new RestMethods.RestMethods(@"https://www.villagecines.com/api/movies").Get<MoviesResponse>().Data;
+        }
     }
 }

@@ -9,7 +9,7 @@ using System.Linq;
 namespace InfoCines
 {
 
-    public class CinemarkHoytsCinema
+    public class CinemarkHoytsCinema : CommonModels.CinemaManager
     {
 
         private CinemarkHoytsResponse response;
